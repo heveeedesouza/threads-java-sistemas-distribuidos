@@ -1,9 +1,9 @@
-# 💻 Sistemas Distribuídos em Java
+# Sistemas Distribuídos em Java
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Em%20Estudo-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Disciplina-Sistemas%20Distribuídos-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Disciplina-Sistemas_Distribuidos-purple?style=for-the-badge"/>
 </p>
 
 ---
@@ -12,10 +12,10 @@
 
 Este repositório contém implementações práticas da disciplina **Sistemas Distribuídos**, com foco em:
 
-- 🧵 Concorrência
-- ⚙️ Threads em Java
-- 🔒 Sincronização de processos
-- 🔄 Execução paralela
+-  Concorrência
+-  Threads em Java
+-  Sincronização de processos
+-  Execução paralela
 
 O objetivo é transformar teoria em prática através de simulações e exercícios.
 
